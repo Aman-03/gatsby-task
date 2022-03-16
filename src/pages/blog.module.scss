@@ -1,0 +1,30 @@
+.posts{
+    list-style-type: none;
+    margin: 0;
+}
+.posts{
+    margin: 1rem 0;
+    a {
+        border-radius: 30px;
+        background: #ffffff;
+        color: #000000;
+        display: block;
+        padding: 1rem;
+        text-decoration: none;
+    }
+
+    a:hover{
+        background:rgb(184, 53, 53);
+    }
+
+    h2{
+        margin-bottom: 0;
+    }
+
+    p{
+        color:#777777;
+        font-size: 0.8rem;
+        margin-top: 0;
+        
+    }
+}
