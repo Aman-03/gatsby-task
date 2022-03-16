@@ -8,7 +8,7 @@ const AboutPage = () => {
       <Layout> 
         <Head title="About" />
         <h1>About Me</h1>
-        <p>I am a student of Computer Science, 3rd Year!</p>
+        <p>I am currently a student of Computer Science, 3rd Year!</p>
         <br/>
         <p>
           Want to work with me?
