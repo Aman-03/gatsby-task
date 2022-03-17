@@ -5,11 +5,11 @@ import Head from "../components/head"
 const AboutPage = () => {
   return (
     <div>
-      <Layout> 
+      <Layout>
         <Head title="About" />
         <h1>About Me</h1>
         <p>I am currently a student of Computer Science, 3rd Year!</p>
-        <br/>
+        <br />
         <p>
           Want to work with me?
           <Link to="/contact">Contact Me</Link>
@@ -20,4 +20,3 @@ const AboutPage = () => {
 }
 
 export default AboutPage
-
